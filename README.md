@@ -1,3 +1,5 @@
+Used to generate all the files and directories necessary for news projects
+
 ### Usage
 
 ```sh
