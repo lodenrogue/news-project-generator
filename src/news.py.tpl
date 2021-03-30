@@ -1,6 +1,6 @@
 from extractor.news_extractor import NewsExtractor
-from {LOWER_NAME}_link_collector import {CAP_NAME}LinkCollector
-from {LOWER_NAME}_content_extractor import {CAP_NAME}ContentExtractor
+from sources.{LOWER_NAME}.{LOWER_NAME}_link_collector import {CAP_NAME}LinkCollector
+from sources.{LOWER_NAME}.{LOWER_NAME}_content_extractor import {CAP_NAME}ContentExtractor
 
 
 class {CAP_NAME}News():
