@@ -9,5 +9,5 @@ Used to generate all the files and directories necessary for news projects
 ### Example
 
 ```sh
-./generate.sh ../bbc-news bbc
+./generate.sh ../news/src/sources bbc
 ```
